@@ -1,0 +1,22 @@
+FCU:
+
+FCU is the abbreviation used for FAN COIL UNIT that are 
+available for either DX or chilled water system that houses 
+refrigerant or chilled water coil respectively.
+ Beside the type of coil used, 
+the other components are common such as the blower fan & filters.
+ FCUs are usually available 
+from 0.75 to 5 TR from various brands across the globe.
+
+DESCRIPTION:
+A fan coil unit (FCU) is a device that uses a coil and a fan to heat or cool a
+ room without connecting to ductwork.
+ Indoor air moves over the coil, which heats or cools the air before pushing it 
+back out into the room.A fan coil unit (FCU) is a device used to heat or cool 
+a room without the need for ductwork. It consists of an indoor coil,
+ a fan and an outdoor condensing unit. The fan forces air through the indoor coil, 
+which is filled with refrigerant,
+ either cooling or heating it depending on the desired temperature in the room.
+
+FAN COIL UNIT:
+A fan coil unit (FCU) is a device that uses a coil and a fan to heat or cool a room without connecting to ductwork
